@@ -11,6 +11,7 @@ This repository documents my progress as I learn C++ from the fundamentals and g
 - Variables and Data Types
 - Type Conversion
 - input
+- arithmetic operators
 - logical operators
 - relational operators
 - sum of 2 numbers

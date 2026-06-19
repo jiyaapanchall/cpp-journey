@@ -10,7 +10,10 @@ This repository documents my progress as I learn C++ from the fundamentals and g
 - Hello World
 - Variables and Data Types
 - Type Conversion
-- input 
+- input
+- logical operators
+- relational operators
+- sum of 2 numbers
 
 ## Goals
 - Build strong programming fundamentals
@@ -27,6 +30,10 @@ cpp-journey
 │   ├── hello_world.cpp
 │   ├── variables_and_data_types.cpp
 │   └── type_conversion.cpp
+|   |__ input.cpp
+|   |__logical_operators.cpp
+|   |__relational_operators.cpp
+|   |__sum_of_2_numbers.cpp
 
 ## Current Status
 

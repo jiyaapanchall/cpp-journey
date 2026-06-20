@@ -15,6 +15,12 @@ This repository documents my progress as I learn C++ from the fundamentals and g
 - logical operators
 - relational operators
 - sum of 2 numbers
+- unary operators
+- if else statement
+- largest of two numbers
+- positive negative zero 
+- voting eligibility
+- grade calculator
 
 ## Goals
 - Build strong programming fundamentals
@@ -35,6 +41,11 @@ cpp-journey
 |   |__logical_operators.cpp
 |   |__relational_operators.cpp
 |   |__sum_of_2_numbers.cpp
+|   |__if_else_statement.cpp
+|   |__ largest_of_two_numbers.cpp
+|   |__positive_negative_zero.cpp
+|   |__voting_eligibility.cpp
+|   |__grade_calculator.cpp
 
 ## Current Status
 

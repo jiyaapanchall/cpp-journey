@@ -21,6 +21,12 @@ This repository documents my progress as I learn C++ from the fundamentals and g
 - positive negative zero 
 - voting eligibility
 - grade calculator
+- for loop
+- while loop
+- do while loop
+- loop problem 1
+- loop problem 2
+- factorial
 
 ## Goals
 - Build strong programming fundamentals
@@ -33,7 +39,7 @@ This repository documents my progress as I learn C++ from the fundamentals and g
 
 cpp-journey
 │
-├── 01_Basics
+|
 │   ├── hello_world.cpp
 │   ├── variables_and_data_types.cpp
 │   └── type_conversion.cpp
@@ -46,6 +52,10 @@ cpp-journey
 |   |__positive_negative_zero.cpp
 |   |__voting_eligibility.cpp
 |   |__grade_calculator.cpp
+|   |__for_loop.cpp
+|   |__while_loop.cpp
+|   |__do_while_loop.cpp
+|   |__factorial.cpp
 
 ## Current Status
 

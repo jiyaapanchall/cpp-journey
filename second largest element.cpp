@@ -1,0 +1,36 @@
+#include <iostream>
+using namespace std;
+
+int secondLargest(int arr[], int size) {
+    int largest = arr[0];
+    int secondLargest = arr[0];
+
+    for(int i = 1; i < size; i++) {
+        if(arr[i] > largest) {
+            secondLargest = largest;
+            largest = arr[i];
+        }
+        else if(arr[i] > secondLargest && arr[i] != largest) {
+            secondLargest = arr[i];
+        }
+    }
+
+    return secondLargest;
+}
+
+int main() {
+    int n;
+
+    cout << "Enter array size: ";
+    cin >> n;
+
+    int arr[n];
+
+    cout << "Enter array elements: ";
+    for(int i = 0; i < n; i++)
+        cin >> arr[i];
+
+    cout << "Second Largest Element = " << secondLargest(arr, n);
+
+    return 0;
+}

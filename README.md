@@ -28,6 +28,7 @@ This repository documents my progress as I learn C++ from the fundamentals and g
 - loop problem 2
 - factorial
 - patterns
+- strings
 
 ## Goals
 - Build strong programming fundamentals
@@ -58,6 +59,7 @@ cpp-journey
 |   |__do_while_loop.cpp
 |   |__factorial.cpp
 |   |__patterns.cpp
+|   |__strings.cpp
 
 ## Current Status
 
